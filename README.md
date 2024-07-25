@@ -23,5 +23,7 @@ Error Handling
 Advanced File Handling
 
 Real life Examples
-Expenses Tracker Program
+
+Expenses Tracker Program:
+
 This program provides a practical application of various Python concepts in a real-life scenario, making it a good exercise for revising and practicing Python programming.
