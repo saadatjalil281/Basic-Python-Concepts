@@ -1,7 +1,9 @@
 # Basic-Python-Concepts
 
 This repository contains the basic concepts of python programing.
+
 Basic python concepts
+
 Program # 01
 This program demonstrates the basic syntax and concepts of Python, including:
 
